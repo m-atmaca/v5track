@@ -1,0 +1,6 @@
+python track_v5.py --source 0 --yolo-weights weights/yolov5n.pt --img 640
+python track_v5.py --source elazig.mp4 --yolo-weights weights/yolov5n.pt --img 640 --show-vid
+
+
+
+python track_v5.py --source deneme.mp4 --yolo-weights skm.pt --img 640 --show-vid
